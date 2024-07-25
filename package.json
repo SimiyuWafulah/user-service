@@ -1,0 +1,18 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "The User Service is a microservice responsible for managing user-related operations such as user creation, authentication, and profile management. This service is a part of a larger microservices architecture designed to demonstrate scalable and maintainable backend systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "simiyu-k",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
